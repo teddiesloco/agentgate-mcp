@@ -1,5 +1,9 @@
 # AgentGate x402 Model Context Protocol (MCP) Server
 
+<p align="center">
+  <img src="https://x402.agentsea.vn/og-image.png" alt="AgentGate x402 — Machine-to-Machine Utility Tollbooth" width="100%" style="border-radius: 8px;">
+</p>
+
 [![Smithery](https://smithery.ai/badge/@teddiesloco/agentgate-mcp)](https://smithery.ai/server/@teddiesloco/agentgate-mcp)
 
 Zero-subscription, machine-payable AI utility microservices powered by HTTP 402 on Base and Solana.
