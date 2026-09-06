@@ -1,0 +1,28 @@
+{
+  "$schema": "https://glama.ai/mcp/schema.json",
+  "name": "agentgate-mcp",
+  "description": "Zero-subscription, machine-payable AI utility microservices powered by HTTP 402 on Base and Solana.",
+  "homepage": "https://x402.agentsea.vn",
+  "repository": "https://github.com/teddiesloco/agentgate-mcp",
+  "capabilities": {
+    "tools": true
+  },
+  "tools": [
+    {
+      "name": "scrape_clean_markdown",
+      "description": "Ultra-fast clean Markdown extraction from any web URL ($0.005 USDC)"
+    },
+    {
+      "name": "check_prompt_injection",
+      "description": "Deterministic adversarial prompt injection and jailbreak detector ($0.002 USDC)"
+    },
+    {
+      "name": "audit_solana_token",
+      "description": "Sub-second anti-rug and security audit for Solana SPL tokens ($0.01 USDC)"
+    },
+    {
+      "name": "enrich_domain",
+      "description": "Instant domain intelligence, DNS, SSL, and technology stack ($0.01 USDC)"
+    }
+  ]
+}
