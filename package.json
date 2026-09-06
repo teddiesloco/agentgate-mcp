@@ -1,0 +1,24 @@
+{
+  "name": "@agentsea/agentgate-mcp",
+  "version": "1.0.0",
+  "description": "AgentGate x402 Model Context Protocol (MCP) Server for Claude Desktop, Cursor, and Autonomous AI Agents",
+  "main": "index.js",
+  "bin": {
+    "agentgate-mcp": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "x402",
+    "ai-agent",
+    "web-scraper",
+    "clean-markdown",
+    "prompt-injection",
+    "solana-rugcheck",
+    "claude-desktop"
+  ],
+  "author": "AgentSea Labs",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}

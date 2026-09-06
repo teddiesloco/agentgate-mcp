@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  configSchema:
+    gateway:
+      type: string
+      default: "https://x402.agentsea.vn"
+      description: "AgentGate x402 gateway endpoint URL"
+  commandFunction:
+    - node
+    - index.js
